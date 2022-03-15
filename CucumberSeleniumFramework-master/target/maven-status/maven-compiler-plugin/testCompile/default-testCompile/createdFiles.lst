@@ -1,0 +1,4 @@
+stepDefinitions\webdriverStepdefinition.class
+MyRunner\TestRunner.class
+stepDefinitions\TaggingStepDefinition.class
+stepDefinitions\TaggedHooksStepDefinition.class
